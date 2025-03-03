@@ -1,0 +1,13 @@
+# What are the requirements
+
+- The website will have:
+    - Light & dark mode toggle
+    - Socil media colour scheme
+    - Accessability
+    - Use correct heading tags
+    - Cards
+    - Use JS to update css variables
+
+    - Find code snippets you know you require before starting
+
+    - use filed set, legend, radio
